@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 -->
 * he/him
 * MIT 2011
-* https://code.golf for fun
